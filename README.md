@@ -22,7 +22,7 @@ To set up and run the code:
 1. Clone the repository:
 
 ```bash
-git clone (https://github.com/mhmdrezanaderi/MLP-project.git)
+git clone https://github.com/mhmdrezanaderi/MLP-project.git
 cd MLP-project
 ```
 
